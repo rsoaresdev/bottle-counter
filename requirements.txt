@@ -1,0 +1,5 @@
+flask==3.0.3
+logging==0.4.9.6
+numpy==2.0.0
+pymssql==2.3.0
+RPi.GPIO==0.7.1
