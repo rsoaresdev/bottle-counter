@@ -33,8 +33,8 @@ Este projeto consiste num sistema de contagem de garrafas utilizando um Raspberr
 ## Configuração
 ### Conexões GPIO
 
-Pino 22: Conectado ao sensor de contagem de garrafas.
-Pino 23: Conectado ao controlo da porta (pistão de ar comprimido).
+- Pino 22: Conectado ao sensor de contagem de garrafas.
+- Pino 23: Conectado ao controlo da porta (pistão de ar comprimido).
 
 ### Base de Dados
 Configurar as variáveis de ambiente para conexão com a base de dados:
